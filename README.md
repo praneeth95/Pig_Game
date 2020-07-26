@@ -13,5 +13,3 @@ GAME RULES:
 
 */
 
-Credits: Johnas Schmedtmann
-
